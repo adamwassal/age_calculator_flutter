@@ -1,6 +1,7 @@
 # Age calculator
 
-<img src='https://ibb.co/qgMGBLP"><img src="https://i.ibb.co/4SZyWw5/age-flutter1.png'/>
+<img src="https://i.ibb.co/4SZyWw5/age-flutter1.png'/>
+
 A new Flutter project.
 
 ## Getting Started
